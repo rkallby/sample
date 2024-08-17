@@ -1,0 +1,45 @@
+
+html{
+    height: 100%;
+
+}
+
+body {
+    background-color: #3e138d;
+    color:white;
+    height: 100%;
+    display:flex;
+    flex-direction: column;
+}
+
+.container {
+    text-align: center;
+}
+
+
+h1 {
+    font-size:250px;
+}
+
+
+h2 {
+    font-size:60px;
+}
+
+.montserrat-main {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 550;
+  font-style: normal;
+}
+
+.montserrat-secondary {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+}
+
+footer {
+    margin-top: auto; /* Push footer to the bottom */
+}
